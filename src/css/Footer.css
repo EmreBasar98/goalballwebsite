@@ -1,0 +1,13 @@
+.footer{
+    position: relative;
+    background-color: #FF5404;
+    bottom:0%;
+    width: 100%;
+    height: 200px; 
+}
+
+.footer-logo{
+    transform: translateX(275px);
+    width: 200px;
+    margin-top: 50px;
+}

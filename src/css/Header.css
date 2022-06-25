@@ -1,0 +1,16 @@
+
+.header{
+    display:flex;
+    position: relative;
+    padding: 25px;
+    padding-top: 55px;
+    align-items:center;
+    border-bottom: 1px solid gray;
+}
+
+.logo{
+    width: 55%;
+    min-width: 200px;
+    max-width:100%;
+    transform: translateX(15%);
+}
